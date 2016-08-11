@@ -1,2 +1,2 @@
-# csgo-config
-MrJaWapa's csgo autoconfig files
+# MrJaWapa's CS:GO Autoexec
+MrJaWapa's CS:GO autoexec files
